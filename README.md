@@ -31,7 +31,7 @@
 
 | Name | Project 1 | Project 2 | Project 3 | Project 4 |
 | ---- | --------- |---------- | --------- | --------- |
-|Tristan|[Black Jack](https://tristan-calleja.github.io/sei23-project1-blackjack/) / [Repo](https://github.com/tristan-calleja/sei23-project1-blackjack)||||
+|Tristan|[Blackjack](https://tristan-calleja.github.io/sei23-project1-blackjack/) / [Repo](https://github.com/tristan-calleja/sei23-project1-blackjack)||||
 |Metilda|[Snakie](https://metildachee.github.io/snakie) / [Repo](https://github.com/metildachee/snakie#snakie )||||
 |Candy|[Bring me home](https://mrsweet5.github.io/arrowkeygame/) / [Repo](https://github.com/mrsweet5/arrowkeygame)||||
 |Isabella|[Alien Invaders](https://izzycsy.github.io/proj1-alienInvaders/) / [Repo](https://github.com/izzycsy/proj1-alienInvaders)||||
@@ -47,7 +47,7 @@
 |Pastiria|[Typing game](https://cocotums.github.io/pasti-typinggame/) / [Repo](https://github.com/cocotums/pasti-typinggame)||||
 |Yonghan|[Simon Game](https://yh-sg.github.io/) / [Repo](https://github.com/yh-sg/sei-23-proj1)||||
 |Joey|[Pet the catto](https://joeyqlim.github.io/pet-the-catto/) / [Repo](https://github.com/joeyqlim/pet-the-catto)||||
-|Russell|[SUDOKU](https://russellcxl.github.io/project-1-sei23/) / [Repo](https://github.com/russellcxl/project-1-sei23)||||
-|Darrell|[Break out](https://zeniethlily.github.io/SEI23-Project-1-Darrell) / [Repo](https://github.com/zeniethlily/SEI23-Project-1-Darrell)||||
+|Russell|[Sudoku](https://russellcxl.github.io/project-1-sei23/) / [Repo](https://github.com/russellcxl/project-1-sei23)||||
+|Darrell|[Breakout](https://zeniethlily.github.io/SEI23-Project-1-Darrell) / [Repo](https://github.com/zeniethlily/SEI23-Project-1-Darrell)||||
 |Zack|[FPS LAB](https://zacksolidd.github.io/sei-ga-proj-1/) / [Repo](https://github.com/zackSolidd/sei-ga-proj-1)||||
 |Evan|[GA Slots](https://evan-yeo.github.io/Evan-P1-GA-slots/) / [Repo](https://github.com/Evan-Yeo/Evan-P1-GA-slots)||||
