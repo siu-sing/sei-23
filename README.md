@@ -4,7 +4,7 @@
 ## Project 1
 | Name | Game Name | Link|
 |------|------|------|
-|Elisa	|Haunted House | [Haunted House](https://sei23-project1-haunted-house	elisaes.github.io) [Live URL](https://elisaes.github.io)
+|Elisa	|Haunted House | [Haunted House](https://github.com/elisaes/sei23-project1-haunted-house) [Live URL](https://elisaes.github.io)
 |Amirah	| Space Invaders |[Last Rebellion]() [Live URL](https://amirahsham01.github.io/proj1-last-rebellion/)|
 |Pastiria	|Speed typing | [Speed Typing](https://github.com/cocotums/pasti-typinggame)	[Live URL](https://cocotums.github.io/pasti-typinggame/)|
 |Yonghan	|Simon Says| [Simon says](https://github.com/yh-sg/sei-23-proj1)	[Live URL](https://yh-sg.github.io/) |
