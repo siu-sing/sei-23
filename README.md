@@ -47,7 +47,7 @@
 |Pastiria|[Typing game](https://cocotums.github.io/pasti-typinggame/) / [Repo](https://github.com/cocotums/pasti-typinggame)||||
 |Yonghan|[Simon Game](https://yh-sg.github.io/) / [Repo](https://github.com/yh-sg/sei-23-proj1)||||
 |Joey|[Pet the catto](https://joeyqlim.github.io/pet-the-catto/) / [Repo](https://github.com/joeyqlim/pet-the-catto)||||
-|Russell|[Typing game](https://russellcxl.github.io/project-1-sei23/) / [Repo](https://github.com/russellcxl/project-1-sei23)||||
+|Russell|[SUDOKU](https://russellcxl.github.io/project-1-sei23/) / [Repo](https://github.com/russellcxl/project-1-sei23)||||
 |Darrell|[Break out](https://zeniethlily.github.io/SEI23-Project-1-Darrell) / [Repo](https://github.com/zeniethlily/SEI23-Project-1-Darrell)||||
 |Zack|[FPS LAB](https://zacksolidd.github.io/sei-ga-proj-1/) / [Repo](https://github.com/zackSolidd/sei-ga-proj-1)||||
 |Evan|[GA Slots](https://evan-yeo.github.io/Evan-P1-GA-slots/) / [Repo](https://github.com/Evan-Yeo/Evan-P1-GA-slots)||||
