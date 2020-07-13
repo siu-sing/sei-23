@@ -2,7 +2,7 @@
 
 ### Overview
 
-This second project is your first foray into **building a full-stack application.** You'll be **building a Node/Express/PostgreSQL app,** from the ground up yourself.
+This second project is your first foray into **building a full-stack application.** You'll be **building a Node/Express/MongoDB app,** from the ground up yourself.
 
 **You will be working individually for this project**, and you'll be designing the app yourself. We hope you'll exercise creativity on this project, sketch some wireframes before you start, and write user stories to define what your users will want to do with the app. Make sure you have time to run these ideas by your instructors to get their feedback before you dive too deep into code! Remember to keep things small and focus on mastering the fundamentals, a Kanban board like Trello will really help here -- scope creep/feature creep is the biggest pitfall for any project!
 
@@ -11,11 +11,11 @@ This second project is your first foray into **building a full-stack application
 ### Technical Requirements
 
 * **Have at _least_ 2 models** (or more, if they make sense)
-* **Utilize a data store (i.e. PostgreSQL) to create a database** and interact with your data
+* **Utilize a data store (i.e. MongoDB) to create a database** and interact with your data
 * **Run a Node.js / Express.js server** from the command line
 * **Respond to at least one HTTP GET and POST** request
-* **Use at least 1 HTML React.js template**
-* **Make a SELECT or INSERT query** to the PostgreSQL database on at least 1 route
+* **Use at least 1 HTML ejs template**
+* **Make a FIND or SAVE** to the MongoDB database on at least 1 route
 
 ### Extras
 * **MVC
@@ -34,7 +34,7 @@ This second project is your first foray into **building a full-stack application
 * A **git repository hosted on GitHub**, with a link to your hosted project,  and frequent commits dating back to the **very beginning** of the project. Commit early, commit often
 * **A ``readme.md`` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc
 * **Wireframes of your app**, hosted somewhere & linked in your readme
-* an ERD diagram of your DB (this can be a photo of a piece of paper)
+* the scehma of your DB (this can be a photo of a piece of paper)
 * A link in your ``readme.md`` to the publically-accessible **user stories you created**
 
 ---
