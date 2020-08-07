@@ -34,7 +34,6 @@ This second project is your first foray into **building a full-stack application
 * A **git repository hosted on GitHub**, with a link to your hosted project,  and frequent commits dating back to the **very beginning** of the project. Commit early, commit often
 * **A ``readme.md`` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc
 * **Wireframes of your app**, hosted somewhere & linked in your readme
-* the scehma of your DB (this can be a photo of a piece of paper)
 * A link in your ``readme.md`` to the publically-accessible **user stories you created**
 
 ---
